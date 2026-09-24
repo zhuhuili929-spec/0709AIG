@@ -1,0 +1,15 @@
+{
+  "name": "商用餐具 AI 视觉工作台",
+  "short_name": "餐具视觉工作台",
+  "description": "商用餐具 AI 视觉工作台",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0912",
+  "theme_color": "#100e1c",
+  "icons": [
+    { "src": "icon.svg", "sizes": "192x192", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
